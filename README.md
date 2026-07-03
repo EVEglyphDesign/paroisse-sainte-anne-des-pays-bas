@@ -15,7 +15,6 @@ Ce site est régi par trois fichiers de doctrine contraignants :
 ## Crédits
 
 - **Fondateur du design :** Donat Omer Thériault (EVE Glyph Design)
-- **Hommage :** Brian Dy, Ontario — membre de la famille du fondateur du design
 - **Contenu paroissial :** © Paroisse Sainte-Anne-des-Pays-Bas
 
 ## Zéro traçage
