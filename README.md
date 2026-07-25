@@ -22,3 +22,9 @@ Ce site est régi par trois fichiers de doctrine contraignants :
 Aucun cookie, aucune analytique, aucun script tiers autre que la police de caractères Google Fonts. `noindex, nofollow` sur toutes les pages.
 
 *Pour le bien-être du peuple.*
+
+---
+
+© 2026 Dany Theriault. EVE “digital stem cell” glyph and glyph-based design principles — all rights reserved. Stewardship of rights of use and assignment for large public and institutional usage rests with the Pacific Utilities Design Council. Published as a time-stamped record of authorship and intent.
+
+pour le bien-être du peuple
